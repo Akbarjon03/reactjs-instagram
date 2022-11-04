@@ -1,11 +1,11 @@
 
 ## Instagram Clone in ReactJS and Firebase
 
-Sign Up
-Log In
-Log Out
-Profile
-Upload Images 
+Sign Up,
+Log In,
+Log Out,
+Profile,
+Upload Images,
 Comments
 
 
